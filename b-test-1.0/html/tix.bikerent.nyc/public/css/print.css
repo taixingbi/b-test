@@ -1,0 +1,24 @@
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+
+footer{
+    display: none;
+}
+
+nav{
+    display: none;
+}
+
+@page {
+    size: auto;   /* auto is the initial value */
+    margin: 10px;  /* this affects the margin in the printer settings */
+}
+
+.col-sm-6{
+    float:left;
+    width: 50%;
+
+}

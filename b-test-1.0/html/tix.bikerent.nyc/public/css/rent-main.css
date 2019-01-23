@@ -1,0 +1,50 @@
+.cell-size{
+    /*width:150px;*/
+
+}
+
+.cell-size:hover{
+    /*background-color: #3097d1!important;*/
+}
+
+.cell-item{
+    display: inline-block;
+    width:100%;
+}
+.padding-sp{
+
+}
+
+table .btn-default{
+    border-color: #fff!important;
+}
+
+.btn-default:focus{
+    background-color: #007bff!important;
+    color:white;
+}
+
+.btn-green:focus{
+    background-color: #28a745!important;
+    color:white;
+}
+
+#section {
+  width: 100%;
+  height: 320px;
+  margin: auto;
+  padding: 10px;
+}
+
+div#one {
+    width: 40% !important;
+    height: 320px;
+    /*background: red;*/
+    float: left;
+}
+
+div#two {
+    margin-left: 1%;
+    height: 320px;
+    /*background: black;*/
+}
